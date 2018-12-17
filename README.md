@@ -1,6 +1,5 @@
-<h1>CS F469</h1>
-<b>Information Retrieval Assignment – 1</b>
-<b>Domain Specific Search Engine</b>
+<h1>CS F469 - Information Retrieval</h1>
+<b>Assignment – 1: Domain Specific Search Engine</b>
 
 <h2>Contributors:</h2>
 <li>Mahicharan Galla		  2016A7PS0054H</li>
@@ -8,7 +7,7 @@
 <li>Bharath KNS			    2016A7PS0103H</li>
 <li>M Tejo Vardhan			  2016AAPS0150H</li>
 
-<b>Language:	Python 3.5</b>
+<h2>Language:	Python 3.5</h2>
 
 <h2>Working:</h2>
 
@@ -23,6 +22,6 @@
 <h2>Installation:</h2>
 
 To run the following code, Anaconda, Flask and nltk have to be readily installed.
-<li>•	Anaconda can be installed by following the following link: https://docs.anaconda.com/anaconda/install/</li>
-<li>•	Flask can be installed by following the documentation in the below link. http://flask.pocoo.org/docs/0.12/installation/</li>
-<li>•	ntlk can be installed using ‘ntlk.download()’ in a python shell. For further queries refer: http://www.nltk.org/install.html</li>
+<li>  Anaconda can be installed by following the following link: https://docs.anaconda.com/anaconda/install/</li>
+<li>	Flask can be installed by following the documentation in the below link. http://flask.pocoo.org/docs/0.12/installation/</li>
+<li>	ntlk can be installed using ‘ntlk.download()’ in a python shell. For further queries refer: http://www.nltk.org/install.html</li>
