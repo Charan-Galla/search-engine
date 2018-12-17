@@ -7,7 +7,10 @@
 <li>Bharath KNS			    2016A7PS0103H</li>
 <li>M Tejo Vardhan			  2016AAPS0150H</li>
 
-<h2>Language:	Python 3.5</h2>
+<li><b>Language Used:	Python 3.5<b></li>
+
+<h2>Dataset:</h2>
+The dataset for the search engine was obtained from the Stanford Standard datasets. It consists of food reviews from an app called finefoods. The dataset is stored in an excel file as input.xlsx and it has three columns, one for the review number, one for the summary of the review and the last one is for the complete review. 
 
 <h2>Working:</h2>
 
