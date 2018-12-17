@@ -3,11 +3,14 @@
 
 <h2>Contributors:</h2>
 <li>Mahicharan Galla		  2016A7PS0054H</li>
-<li>Dhulipudi Avinash		2016A7PS0113H</li>
-<li>Bharath KNS			    2016A7PS0103H</li>
+<li>Dhulipudi Avinash		  2016A7PS0113H</li>
+<li>Bharath KNS			      2016A7PS0103H</li>
 <li>M Tejo Vardhan			  2016AAPS0150H</li>
 
-<li><b>Language Used:	Python 3.5<b></li>
+<b>Language Used:	Python 3.5</b>
+
+<h2>Aim:</h2>
+To make a search engine that retrieves relevent documents when a query is entered using the vector space model. The tf-idf score between the query and documents was used for ranking.
 
 <h2>Dataset:</h2>
 The dataset for the search engine was obtained from the Stanford Standard datasets. It consists of food reviews from an app called finefoods. The dataset is stored in an excel file as input.xlsx and it has three columns, one for the review number, one for the summary of the review and the last one is for the complete review. 
@@ -17,10 +20,10 @@ The dataset for the search engine was obtained from the Stanford Standard datase
 1.	The entire corpus is preprocessed by the preprocess.py file which saves 2 dictionaries in the same directory.
 2.	Two html files are present in the folder ‘’templates” which is present in the directory. These html files are required for the GUI which is run on localhost port. The GUI was built using Flask.
 3.	The directory also contains tf_dump and idf_dump which are 2 dictionaries which are produced by preprocess.py. These two files are read by main.py
-4.	<b>The search engine can be started by running the main.py.</b>
+4.	The search engine can be started by running main.py.
 5.	The results will be random if the searched words are not present in any document in the corpus.
-6.	Each search can be finished within 4 seconds.
-7.	After each search, the top 10 documents are printed along with the relevance score.
+6.	Each search is finished within a second.
+7.	After each search, the top 10 documents are printed along with the relevance score (tf-idf) score.
 
 <h2>Installation:</h2>
 
