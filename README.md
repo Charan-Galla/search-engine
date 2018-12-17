@@ -1,12 +1,13 @@
 <h1>CS F469 - Information Retrieval</h1>
 <p><b>Assignment – 1: Domain Specific Search Engine</b></p>
-<p><b>Language Used:	Python 3.5</b></p>
+<p><b>Language Used:</b>	Python 3.5</p>
 
 <h2>Contributors:</h2>
 <li>Mahicharan Galla		  2016A7PS0054H</li>
 <li>Dhulipudi Avinash		  2016A7PS0113H</li>
 <li>Bharath KNS			      2016A7PS0103H</li>
 <li>M Tejo Vardhan			  2016AAPS0150H</li>
+<li>Ranjan GSK            2016AAPS0245H</li>
 
 <h2>Aim:</h2>
 To make a search engine that retrieves relevent documents when a query is entered using the vector space model. The tf-idf score between the query and documents was used for ranking.
