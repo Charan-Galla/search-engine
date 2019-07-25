@@ -7,7 +7,7 @@
 <li>Dhulipudi Avinash		  2016A7PS0113H</li>
 <li>Bharath KNS			      2016A7PS0103H</li>
 <li>M Tejo Vardhan			  2016AAPS0150H</li>
-<li>Ranjan GSK            2016AAPS0245H</li>
+<li>Veeresh Kande         2016A2PS0581H</li>
 
 <h2>Aim:</h2>
 To make a search engine that retrieves relevent documents when a query is entered using the vector space model. The tf-idf score between the query and documents was used for ranking.
